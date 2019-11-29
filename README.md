@@ -43,5 +43,5 @@ project
 
 # 相关论文推荐
 
-具体请查看[论文相关文档](./paper/paper.md)。
+具体请查看[论文相关文档](./paper/README.md)。
 
