@@ -45,3 +45,19 @@ project
 
 具体请查看[论文相关文档](./paper/README.md)。
 
+# 相关博客推荐
+
+* [李康师兄的博客]( https://ethereum.iethpay.com/smart-contract-battle1.html )，详细介绍了以太坊私链的搭建及合约的部署，以及一些笔记
+* [以太坊爱好者]( https://ethfans.org/ )
+* [深入浅出区块链]( https://learnblockchain.cn/ )
+* ...
+
+# 相关开源项目推荐
+
+* [Bitcoin]( https://github.com/bitcoin/bitcoin )
+* [Ethereum]( https://github.com/ethereum/go-ethereum )
+
+* [以太坊源码分析]( https://github.com/ZtesoftCS/go-ethereum-code-analysis )
+
+
+
