@@ -50,6 +50,7 @@ project
 * [李康师兄的博客]( https://ethereum.iethpay.com/smart-contract-battle1.html )，详细介绍了以太坊私链的搭建及合约的部署，以及一些笔记
 * [以太坊爱好者]( https://ethfans.org/ )
 * [深入浅出区块链]( https://learnblockchain.cn/ )
+* [你好，以太坊](https://knol.ethereum.cn/ )
 * ...
 
 # 相关开源项目推荐
